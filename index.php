@@ -93,7 +93,7 @@
 									<a class="color_black" href="#FAQ"> FAQ</a>
 								</li>
 								<li>
-									<a class="color_black" href="https://gitlab.com/bitcoinrh/fm.one/-/issues" target="_blank"> Bug Tracker</a>
+									<a class="color_black" href="https://github.com/XRCPlatform/fmonex/issues" target="_blank"> Bug Tracker</a>
 								</li>
 								<li>
 									<a class="color_black is_new" href="https://www.xrhodium.org/"  target="_blank">xRhodium.org </a>
@@ -150,7 +150,7 @@
 									<a class="color_black" href="#FAQ"> FAQ</a>
 								</li>
 								<li>
-									<a class="color_black" href="https://gitlab.com/bitcoinrh/fm.one/-/issues" target="_blank"> Bug Tracker</a>
+									<a class="color_black" href="https://github.com/XRCPlatform/fmonex/issues" target="_blank"> Bug Tracker</a>
 								</li>
 								<li>
 									<a class="color_black is_new" href="https://www.xrhodium.org/"  target="_blank">xRhodium.org </a>
@@ -437,12 +437,12 @@
 			                                        <div class="col-lg-6 mt-20">
 														<h3 class="forum__title"><i class="ri-windows-fill"></i> Windows</h3>
 														<p>Requires Windows 10</p>
-<a class="btn btn-primary mt-20 btn-sm" href="https://gitlab.com/bitcoinrh/fm.one/-/releases/1.1Main"><i class="ri-download-line"></i> Download (.exe)</a>
+<a class="btn btn-primary mt-20 btn-sm" href="https://github.com/XRCPlatform/fmonex/releases/tag/1.1Main"><i class="ri-download-line"></i> Download (.exe)</a>
 			                                        </div>
 			                                        <div class="col-lg-6 mt-20">
 														<h3 class="forum__title"><i class="ri-ubuntu-fill"></i>  Linux</h3>
 														<p>Debian based distributions</p>
-<a class="btn btn-primary mt-20 btn-sm" href="https://gitlab.com/bitcoinrh/fm.one/-/releases/1.1Main"><i class="ri-download-line"></i> Download (.dep)</a>
+<a class="btn btn-primary mt-20 btn-sm" href="https://github.com/XRCPlatform/fmonex/releases/tag/1.1Main"><i class="ri-download-line"></i> Download (.dep)</a>
 			                                        </div>
 			                                    </div>
 										<!--		<div class="hr"></div>
@@ -557,7 +557,7 @@
 										<div class="row">
 											<div class="col-lg-12 mt-40">
 <a href="https://discord.gg/WmxceSm" class="btn btn-primary" target="_blank"><i class="ri-add-circle-fill"></i> Contact us on Discord</a>
-<a class="btn btn-white" href="https://gitlab.com/bitcoinrh/fm.one/-/releases"><i class="ri-code-view"></i> FreeMarket One<sup>X</sup> Source Code</a>
+<a class="btn btn-white" href="https://github.com/XRCPlatform/fmonex/releases"><i class="ri-code-view"></i> FreeMarket One<sup>X</sup> Source Code</a>
 											</div>
 										</div>
 			                        </div>
@@ -568,7 +568,7 @@
 			                <div class="box box_buy border-0 hire_box
 			                    space-y-20">
 								<h3>Requirements</h3>
-								<p><a target="_blank" href="https://dotnet.microsoft.com/download/dotnet-core/3.1">NET Core 3.1</a> needs to be installed first. If you are having issues with installation, check out <a target="_blank" href="https://gitlab.com/bitcoinrh/fm.one/-/wikis/home">Wiki page</a> on Gitlab.</p>		
+								<p><a target="_blank" href="https://dotnet.microsoft.com/download/dotnet-core/3.1">NET Core 3.1</a> needs to be installed first. If you are having issues with installation, check out <a target="_blank" href="https://github.com/XRCPlatform/fmonex/wiki">Wiki page</a> on GitHub.</p>		
 			                    <h3 class="pt-40">Sharing Essentials </h3>
 
 									<div class="d-flex justify-content-between">
